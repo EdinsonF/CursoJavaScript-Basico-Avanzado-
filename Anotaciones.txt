@@ -1,0 +1,109 @@
+Curso JavaScript Gratis
+
+----TERMINOS y DEFINICIONES --------
+
+   ::::____ IMPORTANT _____::::
+
+
+
+ISOMORFISMO:
+
+Hacer una app de principio a fin
+con una sola tecnologia.
+Es el unico lenguaje que lo hace.
+
+Frontend-> JavaScript
+Backend -> Node.js
+BD      -> MongoDB, Couch DB, Firebase (Basada en documentos, no SQL)
+
+
+
+LENGUAJE DE ALTO NIVEL;
+
+No hay que preocuparse por administrar la memoria
+
+
+INTERPRETADO Y DINAMICO:
+
+se compila en tiempo de ejecucion.
+
+
+DEBILMENTE TAPADO:
+
+No se casa con un solo tipo de datos
+
+
+MULTIPARADIGMA:
+
+P esstructurada. POO. P Funcional.
+
+
+Sensible a mayusculas y minusculas.
+No es necesario los puntos y comas al final de cada linea.
+
+
+
+NOMENCLATURAS :
+
+snake_case: para_archivos.js
+
+UPPER_CASE: variables CONSTANTES.
+
+UpperCamelCase: NombreDeClases
+
+lowerCamelCase: funtionInstanciasObject
+
+
+
+ORDENAMIENTO DE CODIGO:
+
+-Importacion de modulos
+-Declaracion de variables.
+-Declaraciones de funciones
+-Ejecucion de codigo.
+
+
+TIPOS DE DATOS:
+
+Primitivos: SE accede directamente al valor
+{
+
+.string
+.numbre
+.boolean
+.null
+.undefined
+.NaN
+}
+
+
+Compuestos: Se accede a la refencia del valor
+{
+.object={}
+.array=[]
+.function(){}
+.Class{}
+.etc
+}
+
+
+
+
+VRIABLE:
+
+var: variable global
+let: variable de bloque
+
+A patir del 2015
+
+
+
+Caracteristicas de STRING
+
+CONCATENACION - INTERPOLACION
+
+
+
+
+
+
