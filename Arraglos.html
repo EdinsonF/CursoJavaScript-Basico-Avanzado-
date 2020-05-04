@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<h3>Arreglos - Arrays</h3>
+
+
+
+
+
+
+
+<script type="text/javascript">
+	
+
+
+const primerArray = [1, true,"Hola",["1","2","3"]];
+
+
+
+console.log(`Array completo: ${primerArray}`);
+
+console.log(`Array dentro de otro array: ${primerArray[3][0]}`);
+
+
+
+
+
+const Aobject= Array.of("A","B","C");
+const Aobject2= ["A","B","C"];
+
+console.log(Aobject);
+
+console.log(Aobject2);
+
+
+
+
+const Aautomatico = Array(50).fill(false);
+console.log(Aautomatico);
+
+
+
+// recorrer arreglo con una function
+
+
+
+const colores = ["AMARILLO","ZUL", "ROJO", "VERDE"];
+
+
+colores.forEach(function(nombre, id){
+
+	console.log(`<li id="${id}">${nombre}</li>`);
+
+
+
+});
+
+</script>
+
+
+
+
+
+
+</body>
+</html>
